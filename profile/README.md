@@ -4,7 +4,7 @@
 <table>
 <tr>
 <td width="230" align="center" valign="middle">
-<img src="https://static.macupdate.com/products/35574/l/512x512bb-logo.png?v=1748265200" width="200" alt="MarkMyWords application icon"><br>
+<img src="https://marked2app.com/img/Marked-512.png" width="200" alt="MarkMyWords application icon"><br>
 <a href="https://mac-share-apps.github.io/.github/MarkMyWords">
 <img src="https://i.postimg.cc/7LTTZgxF/macos-badge-noborder.png" width="180" alt="Open MarkMyWords macOS product page">
 </a><br><br>
